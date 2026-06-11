@@ -1,1 +1,3 @@
-# my-project 2
+# This is my TYCDSI 2026 GitHub Repo
+
+Exploring Data Science Technology!
